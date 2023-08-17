@@ -182,7 +182,7 @@ function findElementIndexes(arr, element) {
   }
   return indexArray;
 }
-}
+
 
 // Приклад використання функції findElementIndexes
 console.log("Завдання:8 ==============================");
